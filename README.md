@@ -6,10 +6,6 @@ Questo è la presentazione ufficiale originale dell'epoca di Artic[3]
 Artic[3] "TuttoScript" 
 25 Aprile 2002
 Idea, concetto & realizzazione : [PDreams]
-Powerated by Snoopx.com & Tuttoscript.net
-Sito Ufficiale : http://www.snoopx.com & www.tuttoscript.net
-Posta: pdreams@snoopx.com / artic3@snoopx.com
--------------------------------------------------
  
 [Lo Script]
 ----------
